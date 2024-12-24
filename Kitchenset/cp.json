@@ -1,0 +1,25 @@
+{
+  "games": [
+
+        {
+      "boolval":"vid",
+      "name": "cake maker",
+      "image_url": "Gamevillagedes/cp/main/mobilecp.png",
+      "game_link": "https://play.google.com/store/apps/details?id=com.gl.cake.maker.cooking.games",
+      "video_link": "Gamevillagedes/cp/main/cakecpvid.mp4"
+    }
+    
+    ,
+    
+    
+    {
+      "boolval":"icon",
+      "name": "Cake Making",
+      "image_url": "Gamevillagedes/cp/main/cpcake.jpg",
+      "game_link": "https://play.google.com/store/apps/details?id=com.gl.cake.maker.cooking.games",
+      "video_link": "Gamevillagedes/cp/main/cakevid.mp4"
+    }
+
+  ]
+}
+
