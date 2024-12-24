@@ -5,14 +5,14 @@
       "name": "Cake Making",
       "image_url": "Gamevillagedes/cp/main/cpcake.jpg",
       "game_link": "https://play.google.com/store/apps/details?id=com.gl.cake.maker.cooking.games",
-      "video_link": "farhanaliciit/testcp/main/cakevid.mp4"
+      "video_link": "Gamevillagedes/cp/main/cakevid.mp4"
     },
     {
-      "boolval":"icon",
+      "boolval":"vid",
       "name": "Phone Case ",
-      "image_url": "Gamevillagedes/cp/main/Gamevillagedes/cp/main/cpcake.jpg",
+      "image_url": "Gamevillagedes/cp/main/mobilecp.png",
       "game_link": "https://play.google.com/store/apps/details?id=com.gl.phone.diy.design.games",
-      "video_link": "https://raw.githubusercontent.com/farhanaliciit/testcp/main/test_Vid.mp4"
+      "video_link": "Gamevillagedes/cp/main/kitchenvid.mp4"
     }
   ]
 }
